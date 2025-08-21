@@ -1,0 +1,48 @@
+[
+  {
+    "timestamp": "2025-07-15 17:48:37",
+    "age": 19,
+    "weight": 144.0,
+    "sugar": 120.0,
+    "bp": 140,
+    "risk": 0,
+    "advice": "(No advice found)"
+  },
+  {
+    "timestamp": "2025-07-15 18:08:37",
+    "age": 19,
+    "weight": 199.0,
+    "sugar": 120.0,
+    "bp": 140,
+    "risk": 40,
+    "advice": " 1. Maintain a Healthy Weight: Given your current weight, it's crucial to focus on losing excess pounds. Start by incorporating regular exercise into your routine, such as brisk walking, cycling, or swimming, for at least 30 minutes each day. Also, consider reducing portion sizes and choosing more nutrient-dense foods like fruits, vegetables, lean proteins, and whole grains.\n\n2. Monitor Blood Sugar Levels: Your blood sugar reading is within the prediabetes range (100-125 mg/dL). It's essential to maintain a balanced diet with a focus on complex carbohydrates, fiber, and lean proteins. Try to limit simple sugars found in sweets, sodas, and processed foods as much as possible. Regular exercise and keeping a consistent meal schedule can also help manage blood sugar levels.\n\n3. Control Blood Pressure: Your blood pressure reading (140/90 mmHg) is higher than the recommended range (less than 120/80 mmHg). Try to reduce sodium intake by avoiding processed and fast foods, canned goods, and table salt. Increase your consumption of potassium-rich foods like bananas, oranges, and spinach, which can help lower blood pressure naturally. Regular exercise and managing stress levels are also vital for keeping blood pressure under control.\n\n4. Lower Risk Score: A risk score of 40% indicates an increased chance of developing health problems such as diabetes and heart disease. Focus on making lifestyle changes to improve your overall health, such as quitting smoking if you're a smoker, limiting alcohol consumption, getting adequate sleep (7-9 hours per night), and managing stress through activities like yoga or meditation.\n\n5. Regular Checkups: It's essential to have regular medical checkups to monitor your health and address any concerns early on. This may include blood sugar, cholesterol, and blood pressure checks, as well as discussions with your healthcare provider about personalized goals for weight loss, exercise, and diet."
+  },
+  {
+    "timestamp": "2025-07-15 18:09:27",
+    "age": 19,
+    "weight": 199.0,
+    "sugar": 120.0,
+    "bp": 140,
+    "risk": 40,
+    "advice": " 1. Maintain a Balanced Diet: Aim to include plenty of fruits, vegetables, lean proteins, whole grains, and low-fat dairy products in your meals. Limit intake of processed foods, sugary drinks, and high-fat snacks.\n\n2. Regular Exercise: Incorporate physical activity into your daily routine. This could be walking, cycling, swimming, or even dancing. Aim for at least 30 minutes of moderate exercise most days of the week.\n\n3. Monitor Weight: Given your current weight and risk score, it's crucial to focus on weight loss. Try not to lose more than 1-2 pounds per week. Consult a healthcare professional for advice on a safe and effective weight loss plan.\n\n4. Blood Sugar Control: Keep an eye on your blood sugar levels. Try to maintain them below 100 mg/dL if possible. This can be achieved through diet, exercise, and medication if necessary.\n\n5. Regular Check-ups: Given your risk score, it's important to have regular health check-ups with your doctor. They can monitor your blood pressure, blood sugar, and overall health, and adjust your treatment plan as needed."
+  },
+  {
+    "timestamp": "2025-07-15 18:09:56",
+    "age": 55,
+    "weight": 80.0,
+    "sugar": 109.0,
+    "bp": 140,
+    "risk": 40,
+    "advice": " 1. Maintain a Balanced Diet: Focus on consuming fruits, vegetables, lean proteins, and whole grains to help control blood sugar levels and manage weight. Limit intake of processed foods, sugary drinks, and high-fat meals.\n\n2. Regular Exercise: Incorporate at least 30 minutes of moderate physical activity into your daily routine, such as walking, cycling, or swimming. This can help lower blood pressure and maintain a healthy weight.\n\n3. Monitor Blood Pressure: Check your blood pressure regularly to ensure it remains within the recommended range (less than 120/80 mmHg for most adults). If it's consistently high, consult with a healthcare professional for advice on lifestyle changes or medication.\n\n4. Aim for a Healthy Weight: Maintaining a weight of around 70 kg can help reduce the risk of various health issues, including heart disease and diabetes. You may want to work with a nutritionist or fitness coach to develop a personalized weight management plan.\n\n5. Limit Alcohol Consumption: Drinking alcohol in moderation (no more than one drink per day for women and two drinks per day for men) can help lower the risk of developing chronic health conditions such as heart disease and diabetes. However, excessive consumption can contribute to weight gain and increase blood pressure, so it's important to be mindful of your intake."
+  },
+  {
+    "timestamp": "2025-07-15 18:15:00",
+    "age": 55,
+    "weight": 100.0,
+    "sugar": 140.0,
+    "bp_sys": 140,
+    "bp_dia": 100,
+    "risk": 80,
+    "advice": " 1. Maintain a Balanced Diet: Focus on consuming plenty of fruits, vegetables, lean proteins, and whole grains. Limit intake of processed foods, sodium, and added sugars.\n\n2. Regular Exercise: Incorporate at least 30 minutes of moderate-intensity exercise (like brisk walking or cycling) into your daily routine. Aim for a mix of cardio exercises and strength training to improve overall fitness and heart health.\n\n3. Monitor Blood Sugar Levels: Check blood sugar regularly, especially if you've been diagnosed with diabetes or prediabetes. Keep a log to identify patterns and take appropriate action such as adjusting meals or activities accordingly.\n\n4. Manage Stress: High stress levels can affect blood pressure and overall health. Practice relaxation techniques like deep breathing, meditation, or yoga to help manage stress more effectively.\n\n5. Limit Alcohol Consumption: Drinking alcohol in moderation is generally acceptable, but excessive consumption can raise blood pressure and lead to other health issues. If you choose to drink, do so responsibly and limit your intake."
+  }
+]
